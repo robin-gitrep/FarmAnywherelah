@@ -3,9 +3,9 @@ const express = require("express");
 
 router = express.Router();
 
-router.get("/user/all", (request, response) => {
+router.get("/customers/all", (request, response) => {
     database.connection.query(`select *
-                               from user`, (errors, results) => {
+                               from customers`, (errors, results) => {
         if (errors) {
             console.log(errors);
             response.status(500).send("Internal Serve Error");

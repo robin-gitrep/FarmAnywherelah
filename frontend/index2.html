@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Demo</title>
+  <script src="user.js"></script>
+  <script src="account.js"></script>
+  <script src="transaction.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+</head>
+
+<body>
+<div class="container">
+  <div class="nav">
+    <h3 id="title">Farm Anywhere Lah!</h1>
+  </div>
+  <br>
+  <table style="border: 1px solid transparent">
+    
+    <tbody>
+        <tr>
+        <td style="width: 33.3333%;">&nbsp;</td>
+        <td style="width: 33.3333%;"><img style="float: left;" src="./images/icon_gold.png" width="45" />
+          <p id="goldpoint">100</p></td>
+        <td style="width: 33.3333%;"><img style="float: left;" src="./images/icon_harvest.png"  width="45" />
+          <p id="harvestpoint">500</p></td>
+        </tr>
+        <tr>
+        <td style="width: 33.3333%;">&nbsp;</td>
+        <td style="width: 33.3333%;">Gold Points</td>
+        <td style="width: 33.3333%;">Harvest Points</td>
+        </tr>
+        </tbody>
+        </table>
+  <br>
+  <div class="set">
+    <button class="water feature">3</button>
+    <button class="fertilizer feature">17</button>
+    <button class="seed feature">2</button>
+    <br/>
+    <button class="buttonText" style="margin-right:68px;">water</button>
+    <button class="buttonText" style="margin-right:64px;">fertilizer</button>
+    <button class="buttonText">seeds</button>
+    <br/>
+    <button class="insurance feature">0</button>
+    <button class="spin feature">3</button>
+    <button class="soil feature">2</button>
+    <br/>
+    <button class="buttonText" style="margin-right:70px;">insurance</button>
+    <button class="buttonText" style="margin-right:84px;">spin</button>
+    <button class="buttonText" style="margin-right:18px;">soil</button>
+  </div>
+
+
+  <div>
+    <button id="confirmation"></button>
+    <br/>
+    <button id="boardcast"></button>
+  </div>
+
+
+  <div>
+    <img id="story" src="./images/main.png" alt="story" width="450" height="300">
+  </div>
+
+  <div class="mypanel"></div>
+
+  <div>
+    <p style="text-align: left; margin-left: 5px; font-style: oblique;">Players:</p>
+    <div style="overflow-y: hidden;">
+      <div style="text-align: left; overflow-y: hidden; width: 600px;">
+        <button class="buttonText">Ah Teck</button>
+        <button class="buttonText">Dolly</button>
+        <button class="buttonText">Ronnie</button>
+        <button class="buttonText">Paul</button>
+        <button class="buttonText">Denise</button>
+        <button class="buttonText">Rosie</button>
+        <button class="buttonText">Ahmad</button>
+        
+      </div>
+    </div>
+
+  </div>
+  <br/>
+
+  <div>
+    <input class="chat" placeholder="hi guys, i need water..">
+  </div>
+  <br/>
+
+  <button class="btn btn-info" onclick="getInsurance()">Search Players</button>
+
+  Enter ID: <input type="text" id="paramId"/>
+  <br/>
+  <br/>
+  <button class="btn btn-info" onclick="getUserByUID()">Search Insurance</button>
+
+
+  <br/>
+  <br/>
+  Made by Grp 2
+  <br/>
+  <br/>
+  End of Demo
+  <br/>
+  - - - - - - - - - - - - - - - - -
+
+</div>
+
+
+<script src="index.js" charset="utf-8"></script>
+
+<footer>
+
+  <br/>
+  <br/>
+  <div style="background-color: rgb(143, 230, 164); color: brown;">
+    // Developer Zone //
+  <br/>
+  <button class="danger" onclick="danger()">Danger!</button>
+  <br/>
+  For Developer only!
+  <br/>
+  <br/>
+
+  </div>
+  
+</footer>
+</body>
+</html>

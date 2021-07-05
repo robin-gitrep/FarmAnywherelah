@@ -1,5 +1,5 @@
-function getUsers() {
-    fetch("http://localhost:3000/user/all", {method: "GET"})
+function getInsurance() {
+    fetch("http://localhost:3000/customers/all", {method: "GET"})
         .then((response) => response.json())
         .then((data) => {
             var text = `
@@ -7,7 +7,7 @@ function getUsers() {
                 <tr>
                   <th>ID</th>
                   <th>Full Name</th>
-                  <th>Mobile</th>
+                  <th>Gold Points</th>
                   <th>Email</th>
                 </tr>`;
 
@@ -16,7 +16,7 @@ function getUsers() {
                     <tr>
                       <td>${item.id}</td>
                       <td>${item.first_name} ${item.last_name}</td>
-                      <td>${item.mobile}</td>
+                      <td>${item.gold_points}</td>
                       <td>${item.email}</td>
                     </tr>`;
             });
