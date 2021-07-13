@@ -4,7 +4,7 @@ It is a school project made by SGUS B11 Group 2 **National University of Singapo
 
 DISCLAIMER: The enclosed document is the outcome of a student project, and does not necessarily represent the views of **National University of Singapore** in or any other individuals referenced or acknowledged within the project. The project is solely for educational purposes. 
 
-This project app features HTML-CSS-Javascript frontend, Node.js Middleware and MySQL backend database.
+This project app features **HTML-CSS-Javascript frontend, Node.js Middleware and MySQL backend database**.
 
 This repository consists of the following folders:
 ```
