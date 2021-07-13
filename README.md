@@ -5,9 +5,15 @@ DISCLAIMER: The enclosed document is the outcome of a student project, and does 
 
 This project app features HTML-CSS-Javascript frontend, Node.js backend and MySQL database.
 
-This repo consists of the folders:
+This repository consists of the following folders:
 ```
 /frontend         HTML, CSS, Javascript code for the frontend client
-/backend          Node.js code for the backend server
+/backend          The Java script codes for the middle ware codes to import Node JS components 
+                  Express is a perfect choice for a server when it comes to creating and exposing APIs
+                  Body-Parser for parsing the incoming request bodies in a middleware before you handle it
+                  CORS mechanism to allow or restrict requested resources on a web server depend on where the HTTP request was initiated.
+                  Express Router to create a new router object in your program to handle requests.
 /database_sample  Sample data to load into your MySQL database
+
+Node.js:          Used Node.JS, the back-end JavaScript runtime environment to execute JavaScript code outside a web browser.
 ```
