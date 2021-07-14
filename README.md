@@ -24,17 +24,17 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
   <ol>  
   <li> <b> To clone the file in your local directory</b>   </li>
   <li> Open windows command prompt, select the folder you want to clone and run the below command </li>
-  </ol>      
   <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
+  <li> To install msql and node.js application   </li>
+  <li> Install VSC   </li>    
+  <li> Install MYSQL Extensions  </li>    
+  <li> Ask Robin for the updated .env file for database connectiong string  </li>        
   </ol>    
 <ul>
    
 <ul>
   <ol>  
-  <li> To install msql and node.js application   </li>
-  <li> Install VSC   </li>    
-  <li> Install MYSQL Extensions  </li>    
-  <li> Ask Robin for the updated .env file for database connectiong string  </li>    
+
   </ol>    
 <ul>
 
