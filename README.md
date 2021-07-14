@@ -28,33 +28,31 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
   <li> To install msql and node.js application   </li>
   <li> Install VSC   </li>    
   <li> Install MYSQL Extensions  </li>    
-  <li> Ask Robin for the updated .env file for database connectiong string  </li>        
-  </ol>    
-<ul>
-   
-<ul>
-  <ol>  
+  <li> Ask the Administrator for the updated .env file with database connectiong string  </li>   
+  </ol>
+  <ol>
+       <li> To Initialize Node JS  </li>
+       <li> From VSC, Run the Integrated Terminal </li>
+       <li> Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser</li>    
+       <li> npm init </li>
+       <li> npm install --save mysql express body-parser cors dotenv </li>
+       <li> npm install --save mysql express body-parser cors dotenv </li>
+  </ol>
+  
+  
+  
+       <li> </li>
 
-  </ol>    
-<ul>
+  <ol>
+      <li> To install msql and node.js application   </li>
+  </ol>
+  
 
 
 
 
 
 
-
-To Initialize Node JS
-
-From VSC, Run the Integrated Terminal
-
-Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser
-
-npm init
-
-npm install --save mysql express body-parser cors dotenv
-
-npm install --save mysql express body-parser cors dotenv
 
 
 To launch node js and connect to database, run the below command
@@ -63,18 +61,18 @@ node main.js
 
 On the chrome browser, type the below URL to launch the Farmanywhere lah gaming app
 http://localhost:3000/index.html
-
+    
+  </ol>    
 <ul>
-  <li>[b] <b> Scrum Ceremonies:</b>
-    <ol>
-      <li> Product Backlog Grooming Session</li>
-      <li> Sprint Entry/Exit ceremony </li>
-      <li> Sprint Planning session </li>
-      <li> Sprint Entry/Exit ceremony </li>
-      <li> Daily Stand-up meetings </li>
-      <li> Weekly Design catch-up </li> 
-      <li> Sprint Review </li>
-      <li> Sprint Retrospective sessions </li> 
-    </ol>
-  </li>
-</ul>
+   
+<ul>
+  <ol>  
+ </ol>    
+<ul>
+
+
+
+
+
+
+
