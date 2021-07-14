@@ -29,17 +29,17 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
   <li> Install VSC   </li>    
   <li> Install MYSQL Extensions  </li>    
   <li> Ask the Administrator for the updated .env file with database connectiong string  </li>   
-   <li> To Initialize Node JS  </li>
+   <b> To Initialize Node JS  </b>
    <li> From VSC, Run the Integrated Terminal </li>
    <li> Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser</li>    
    <li> npm init </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
    </br>
-   <b> To launch node js and connect to database, run the below command </b> 
+   <b> To launch node js middleware and connect to database, run the below command </b> 
    </br>  
    <li> node main.js</li>
-   <li>To launch the Farmanywhere lah gaming app.  Type the below URL on the chrome browser  </li>
+   <b> To launch the Farmanywhere lah gaming app.  Type the below URL on the chrome browser  </b> 
    <li> http://localhost:3000/index.html </li>    
   </ol>    
 <ul>
