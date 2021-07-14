@@ -23,6 +23,9 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 <ul>
   <li> <b> To clone the file in your local directory</b>   </li>
   <ol>
+  <li> Open windows command prompt, select the folder you want to clone and run the below command </li>
+  </ol>      
+  <ol>
   <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
   </ol>    
  <ul>
