@@ -29,39 +29,16 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
   <li> Install VSC   </li>    
   <li> Install MYSQL Extensions  </li>    
   <li> Ask the Administrator for the updated .env file with database connectiong string  </li>   
-  </ol>
-  <ol>
-       <li> To Initialize Node JS  </li>
-       <li> From VSC, Run the Integrated Terminal </li>
-       <li> Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser</li>    
-       <li> npm init </li>
-       <li> npm install --save mysql express body-parser cors dotenv </li>
-       <li> npm install --save mysql express body-parser cors dotenv </li>
-  </ol>
-  
-  
-  
-       <li> </li>
-
-  <ol>
-      <li> To install msql and node.js application   </li>
-  </ol>
-  
-
-
-
-
-
-
-
-
-To launch node js and connect to database, run the below command
-
-node main.js
-
-On the chrome browser, type the below URL to launch the Farmanywhere lah gaming app
-http://localhost:3000/index.html
-    
+   <li> To Initialize Node JS  </li>
+   <li> From VSC, Run the Integrated Terminal </li>
+   <li> Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser</li>    
+   <li> npm init </li>
+   <li> npm install --save mysql express body-parser cors dotenv </li>
+   <li> npm install --save mysql express body-parser cors dotenv </li>
+   <li> To launch node js and connect to database, run the below command </li>
+   <li> node main.js</li>
+   <li> On the chrome browser, type the below URL to launch the Farmanywhere lah gaming app </li>
+   <li> http://localhost:3000/index.html </li>    
   </ol>    
 <ul>
    
@@ -70,9 +47,4 @@ http://localhost:3000/index.html
  </ol>    
 <ul>
 
-
-
-
-
-
-
+ 
