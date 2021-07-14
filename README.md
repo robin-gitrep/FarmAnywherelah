@@ -19,8 +19,6 @@ This repository consists of the following folders:
 Node.js:          Used Node.JS, the back-end JavaScript runtime environment to execute JavaScript code outside a web browser.
 ```
 
-# Welcome to the FarmAnywherelah- wiki!
-
 ## Steps to Install in your local machine and demonstrate the Application
 
 ### To clone the file in your local directory
@@ -42,34 +40,3 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 `node main.js`
 * To launch the Farmanywherelah gaming app. Click on [Farmanywherelah](http://localhost:3000/index.html)
 
-<Strong>Steps to Install in your local machine and demonstrate the Application </Strong>
-<ul>
-  <ol>  
-   <b> To clone the file in your local directory </b>   
-  <li> Open windows command prompt, select the folder you want to clone and run the below command </li>
-  <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
-  <b> To install msql and node.js application   </b>
-  <li><a href="https://code.visualstudio.com/download" rel="nofollow">Install Visual Studio Code</a></li>    
-  <li> Install MYSQL Extensions in VSC  </li>    
-  <li> Ask the Administrator for the updated .env file with database connectiong string  </li>   
-   <b> To Initialize Node JS  </b>
-   <li> From VSC, Run the Integrated Terminal </li>
-   <li> Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser</li>    
-   <li> npm init </li>
-   <li> npm install --save mysql express body-parser cors dotenv </li>
-   <li> npm install --save mysql express body-parser cors dotenv </li>
-   <b> To create database and  table schema  </b>     
-  <li>[a] <a href="https://github.com/robin-gitrep/DIY-Repos/blob/main/SQL_DB_Scripts.sql" rel="nofollow">Create MYSQL Database & Table</a></li>    
-   <b> To launch node js middleware and connect to database, run the below command </b> 
-   <li> node main.js</li>
-   <b> To launch the Farmanywherelah gaming app.  Click below.  </b> 
-  <li><a href="http://localhost:3000/index.html" rel="nofollow">Farmanywherelah</a></li>        
-  </ol>    
-<ul>
-
-<ul>
-  <ol>  
- </ol>    
-<ul>
-
- 
