@@ -16,7 +16,7 @@
 1. `npm install --save mysql express body-parser cors dotenv`
 1. `npm install --save mysql express body-parser cors dotenv` 
 * To create database and table schema
-1. Run the scripts in [Create DB Schema](https://github.com/robin-gitrep/Wiki/blob/main/SQL_DB_Scripts.sql)
+1. Run the scripts in [MSSQL](https://github.com/robin-gitrep/Wiki/blob/main/SQL_DB_Scripts.sql)
 * To launch node js middleware and connect to database, run the command
 `node main.js`
 * To launch the Farmanywherelah gaming app. Click on [Farmanywherelah](http://localhost:3000/index.html)
