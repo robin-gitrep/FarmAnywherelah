@@ -37,7 +37,7 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <b> To launch node js middleware and connect to database, run the below command </b> 
    <li> node main.js</li>
-   <b> To launch the Farmanywhere lah gaming app.  Click below.  </b> 
+   <b> To launch the Farmanywherelah gaming app.  Click below.  </b> 
   <li><a href="http://localhost:3000/index.html" rel="nofollow">Farmanywherelah</a></li>        
   </ol>    
 <ul>
