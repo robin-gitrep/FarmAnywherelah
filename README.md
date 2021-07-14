@@ -35,7 +35,9 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
    <li> npm init </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
-   <li> <b> To launch node js and connect to database, run the below command </b> </li>
+   </br>
+   <b> To launch node js and connect to database, run the below command </b> 
+   </br>  
    <li> node main.js</li>
    <li>To launch the Farmanywhere lah gaming app.  Type the below URL on the chrome browser  </li>
    <li> http://localhost:3000/index.html </li>    
