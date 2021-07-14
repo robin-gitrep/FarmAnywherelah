@@ -21,7 +21,7 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 
 ## Steps to Install in your local machine and demonstrate the Application
 
-### To clone the file in your local directory
+### To clone the files in your local directory
 * Open windows command prompt, select the folder you want to clone and run the below command
 1. git clone https://github.com/robin-gitrep/Farmanywherelah-.git
 * To install msql and node.js application
