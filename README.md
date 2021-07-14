@@ -21,42 +21,30 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 
 <Strong>Steps to Install in your local machine and demonstrate the Application </Strong>
 <ul>
+  <ol>  
   <li> <b> To clone the file in your local directory</b>   </li>
-  <ol>
   <li> Open windows command prompt, select the folder you want to clone and run the below command </li>
   </ol>      
-  <ol>
   <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
   </ol>    
- <ul>
+<ul>
    
 <ul>
-  <li> <b> To clone the file in your local directory</b>   </li>   
-    <ol>
-      <li> Product Backlog Grooming Session</li>
-      <li> Sprint Entry/Exit ceremony </li>
-      <li> Sprint Planning session </li>
-      <li> Sprint Entry/Exit ceremony </li>
-      <li> Daily Stand-up meetings </li>
-      <li> Weekly Design catch-up </li> 
-      <li> Sprint Review </li>
-      <li> Sprint Retrospective sessions </li> 
-    </ol>
-  </li>
-</ul>
+  <ol>  
+  <li> To install msql and node.js application   </li>
+  <li> Install VSC   </li>    
+  <li> Install MYSQL Extensions  </li>    
+  <li> Ask Robin for the updated .env file for database connectiong string  </li>    
+  </ol>    
+<ul>
 
 
 
- 
 
 
-To start msql and initialize  node.js application
 
-Install VSC
-Install MYSQL Extensions
-Ask Robin for the updated .env file for database connectiong string
 
-Initialize Node JS
+To Initialize Node JS
 
 From VSC, Run the Integrated Terminal
 
