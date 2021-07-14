@@ -19,11 +19,31 @@ This repository consists of the following folders:
 Node.js:          Used Node.JS, the back-end JavaScript runtime environment to execute JavaScript code outside a web browser.
 ```
 
+<Strong>Steps to Install in your local machine and demonstrate the Application </Strong>
+<ul>
+  <li> <b> To clone the file in your local directory</b>   </li>
+  <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
+ <ul>
+   
+<ul>
+  <li> <b> To clone the file in your local directory</b>   </li>   
+    <ol>
+      <li> Product Backlog Grooming Session</li>
+      <li> Sprint Entry/Exit ceremony </li>
+      <li> Sprint Planning session </li>
+      <li> Sprint Entry/Exit ceremony </li>
+      <li> Daily Stand-up meetings </li>
+      <li> Weekly Design catch-up </li> 
+      <li> Sprint Review </li>
+      <li> Sprint Retrospective sessions </li> 
+    </ol>
+  </li>
+</ul>
 
-<Strong>Steps to Install in your local machine and Demonstrate the Application </Strong>
 
-To clone the file in your local directory 
-git clone https://github.com/robin-gitrep/FarmAnywherelah-.git
+
+ 
+
 
 To start msql and initialize  node.js application
 
