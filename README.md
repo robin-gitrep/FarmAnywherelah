@@ -4,7 +4,7 @@ It is a school project made by SGUS B11 Group 2 **National University of Singapo
 
 DISCLAIMER: The enclosed document is the outcome of a student project, and does not necessarily represent the views of **National University of Singapore** in or any other individuals referenced or acknowledged within the project. The project is solely for educational purposes. 
 
-This project app features **HTML-CSS-Javascript frontend, Node.js Middleware and MySQL backend database**.
+This project app is developed with the following components **Front End: HTML-CSS-Javascript Middleware: Node.js Backend(DB): MySQL**.
 
 This repository consists of the following folders:
 ```
@@ -37,11 +37,11 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <li> <b> To launch node js and connect to database, run the below command </b> </li>
    <li> node main.js</li>
-   <li> On the chrome browser, type the below URL to launch the Farmanywhere lah gaming app </li>
+   <li>To launch the Farmanywhere lah gaming app.  Type the below URL on the chrome browser  </li>
    <li> http://localhost:3000/index.html </li>    
   </ol>    
 <ul>
-   
+
 <ul>
   <ol>  
  </ol>    
