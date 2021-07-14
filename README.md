@@ -22,7 +22,9 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 <Strong>Steps to Install in your local machine and demonstrate the Application </Strong>
 <ul>
   <li> <b> To clone the file in your local directory</b>   </li>
+  <ol>
   <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
+  </ol>    
  <ul>
    
 <ul>
