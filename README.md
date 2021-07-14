@@ -22,7 +22,7 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 <Strong>Steps to Install in your local machine and demonstrate the Application </Strong>
 <ul>
   <ol>  
-  <li> <b> To clone the file in your local directory</b>   </li>
+   <b> To clone the file in your local directory </b>   
   <li> Open windows command prompt, select the folder you want to clone and run the below command </li>
   <li> git clone https://github.com/robin-gitrep/Farmanywherelah-.git </li>
   <li> To install msql and node.js application   </li>
@@ -35,9 +35,7 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
    <li> npm init </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
-   </br>
    <b> To launch node js middleware and connect to database, run the below command </b> 
-   </br>  
    <li> node main.js</li>
    <b> To launch the Farmanywhere lah gaming app.  Type the below URL on the chrome browser  </b> 
    <li> http://localhost:3000/index.html </li>    
