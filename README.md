@@ -35,6 +35,8 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
    <li> npm init </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
    <li> npm install --save mysql express body-parser cors dotenv </li>
+   <b> To create database and  table schema  </b>     
+  <li>[a] <a href="https://github.com/robin-gitrep/DIY-Repos/blob/main/SQL_DB_Scripts.sql" rel="nofollow">Create MYSQL Database & Table</a></li>    
    <b> To launch node js middleware and connect to database, run the below command </b> 
    <li> node main.js</li>
    <b> To launch the Farmanywherelah gaming app.  Click below.  </b> 
