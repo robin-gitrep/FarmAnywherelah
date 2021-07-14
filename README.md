@@ -1,6 +1,6 @@
 # FarmAnywherelah!
 
-## Steps to Deploy the source, configure and demonstrate the Application from any local machine
+## Steps to Deploy the source, configure and demonstrate the Application from any windows local machine
 
 ### To clone the files in your local directory
 * Open windows command prompt, select the folder you want to clone and run the below command
