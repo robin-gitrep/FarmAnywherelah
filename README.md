@@ -20,7 +20,36 @@ Node.js:          Used Node.JS, the back-end JavaScript runtime environment to e
 ```
 
 
-<Strong>Steps to Install and Demonstrate this Application </Strong>
+<Strong>Steps to Install in your local machine and Demonstrate the Application </Strong>
+
+To clone the file in your local directory 
+git clone https://github.com/robin-gitrep/FarmAnywherelah-.git
+
+To start msql and initialize  node.js application
+
+Install VSC
+Install MYSQL Extensions
+Ask Robin for the updated .env file for database connectiong string
+
+Initialize Node JS
+
+From VSC, Run the Integrated Terminal
+
+Run the below commands one by one to Initialize Node JS and Install mysql, express and body-parser
+
+npm init
+
+npm install --save mysql express body-parser cors dotenv
+
+npm install --save mysql express body-parser cors dotenv
+
+
+To launch node js and connect to database, run the below command
+
+node main.js
+
+On the chrome browser, type the below URL to launch the Farmanywhere lah gaming app
+http://localhost:3000/index.html
 
 <ul>
   <li>[b] <b> Scrum Ceremonies:</b>
