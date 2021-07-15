@@ -18,6 +18,6 @@
 * To create database and table schema
 1. Run the scripts in [MSSQL](https://github.com/robin-gitrep/Wiki/blob/main/SQL_DB_Scripts.sql)
 * To launch node js middleware and connect to database, run the command
-`node main.js`
+`node main.js` from VSC Integrated terminal
 * To launch the Farmanywherelah gaming app. Click on [Farmanywherelah](http://localhost:3000/index.html)
 
